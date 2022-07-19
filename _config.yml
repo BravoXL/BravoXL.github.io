@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md",title:"Know Me",icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "https://mail.google.com/mail/u/0/#inbox"}
+  - {title: Mail, icon: envelope, url: "zxlearly(AT)gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/BravoXL/OfficeCodes"}
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
