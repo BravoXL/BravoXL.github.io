@@ -17,8 +17,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html",title: Back Home,icon: home}
-  - {file: "README.md",title: Know Me,icon: address-card}
+  - {title: "MyGithub",url:"https://github.com/BravoXL"}
+  - {file: "README.md",title: "Know Me"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "zxlearly(AT)gmail.com"}
