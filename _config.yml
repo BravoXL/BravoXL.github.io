@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "MyGithub",url:"https://github.com/BravoXL"}
+  - {title: "MyGithub", url: "https://github.com/BravoXL"}
   - {file: "README.md",title: "Know Me"}
 
 
